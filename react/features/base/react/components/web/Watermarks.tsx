@@ -12,7 +12,7 @@ import { translate } from '../../../i18n/functions';
  * @private
  */
 const _RIGHT_WATERMARK_STYLE = {
-    backgroundImage: 'url(images/rightwatermark.png)'
+    backgroundImage: 'url(images/biggfootsLogo.png)'
 };
 
 /**
